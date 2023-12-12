@@ -1,10 +1,11 @@
 ### Hey , I'm Rodrigo Orlandini! Welcome to my profile ✨
 
-A FullStack Developer that face every challenge. 
+👨‍💻 A FullStack Developer that face every challenge. 
 
-Software Engineering Specialist - UNICAMP (Brazil)
+🎓 Software Engineering Specialist - UNICAMP (Brazil)
 
 The main technologies that I already worked with:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-orlandini&hide=css,html&theme=tokyonight&layout=donut)](https://github.com/rodrigo-orlandini)
 
 <div style="display: inline_block">
@@ -17,14 +18,6 @@ The main technologies that I already worked with:
 		src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
 	/>
 	<img
-		align="center" alt="Python"
-		src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-	/>
-	<img
-		align="center" alt="Jest"
-		src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"
-	/>
-	<img
 		align="center" alt="React"
 		src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 	/>
@@ -35,6 +28,16 @@ The main technologies that I already worked with:
 	<img
 		align="center" alt="React Native"
 		src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+	/>
+	<img
+		align="center" alt="Jest"
+		src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"
+	/>
+</div>
+<div style="display: inline_block">
+	<img
+		align="center" alt="Python"
+		src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
 	/>
 	<img
 		align="center" alt="Golang"
@@ -52,6 +55,8 @@ The main technologies that I already worked with:
 		align="center" alt="AWS"
 		src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
 	/>
+</div>
+<div style="display: inline_block">
 	<img
 		align="center" alt="MySQL"
 		src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
